@@ -26,3 +26,5 @@ detection to fisheries monitoring and other ecological domains.
 # Keywords 
 YOLO; Deep learning; Real-time object detection; Fish species identification;
 Length estimation; Lake Tanganyika; Fisheries monitoring
+# Dashboard
+https://huggingface.co/spaces/mngosha/eCAS_Detector
